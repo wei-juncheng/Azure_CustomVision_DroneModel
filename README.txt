@@ -1,5 +1,5 @@
 # Custom Vision Dockerfile
-Exported from customvision.ai.
+- Exported from customvision.ai.
 
 ## Build
 
